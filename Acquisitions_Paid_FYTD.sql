@@ -1,3 +1,5 @@
+-- current version is for the 2026 fiscal year (starting Oct 1 2025), must update line 57 with new date for future years
+
 SELECT 
     'o' || 
     rm.record_num::text ||
